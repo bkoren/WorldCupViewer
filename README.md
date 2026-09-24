@@ -2,7 +2,7 @@
 
 A desktop application for displaying and analyzing statistics from the FIFA World Cup 2018 (men) and 2019 (women), built using .NET technologies.
 
-The project consists of multiple applications sharing a common data layer and consuming data from a public API.
+Built as a second-year project for the course Object-Oriented Programming – .NET at Algebra University, Zagreb.
 
 ## 🚀 Features
 
